@@ -77,7 +77,7 @@ Albany Health Management Platform
 |---|---|---|
 | **[ai-security-triage](https://github.com/vedantvpednekar10/ai-security-triage)** | SOC copilot with ML-based alert triage; cut model size 93% (259MB → 19MB) while raising recall to 84–96% on rare attack categories; remediated a critical CVE (CVSS 10.0) pre-deployment | Python, FastAPI, scikit-learn, LangChain, FAISS, Next.js |
 | **[verifai-ml](https://github.com/vedantvpednekar10/verifai-ml)** | RAG verification system with experiment tracking & explainability | Python, MLflow, SHAP |
-| **[langgraph-multi-agent-chatbot](https://github.com/vedantvpednekar10/langgraph-multi-agent-chatbot)** | Modular multi-agent architecture decoupling orchestration from tools, cutting integration time by 40% | Python, LangGraph, LangChain, OpenAI, Anthropic |
+| **[langgraph-multi-agent-chatbot](https://github.com/vedantvpednekar10/Lanchain-Chatbot)** | Modular multi-agent architecture decoupling orchestration from tools, cutting integration time by 40% | Python, LangGraph, LangChain, OpenAI, Anthropic |
 | **[EBAA (AdvertisementVision)](https://github.com/vedantvpednekar10/Electronic-Based-Analysis-for-Advertising)** | Computer vision system measuring billboard ad engagement via real-time viewer detection & head pose estimation — 98.38% accuracy | Python, OpenCV, YOLOv4, Dlib, MTCNN, Streamlit |
 
 ---
