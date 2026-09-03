@@ -75,6 +75,7 @@ Albany Health Management Platform
 
 | Repository | Description | Stack |
 |---|---|---|
+| [mini-redis](https://github.com/vedantvpednekar10/mini-redis) | Redis-compatible in-memory database built from scratch in Go, featuring concurrent TCP clients, skip-list sorted sets, TTL expiration, durable snapshots, and master-replica replication | Go, TCP/IP, RESP, Goroutines, Skip Lists, Distributed Systems |
 | **[ai-security-triage](https://github.com/vedantvpednekar10/ai-security-triage)** | SOC copilot with ML-based alert triage; cut model size 93% (259MB → 19MB) while raising recall to 84–96% on rare attack categories; remediated a critical CVE (CVSS 10.0) pre-deployment | Python, FastAPI, scikit-learn, LangChain, FAISS, Next.js |
 | **[verifai-ml](https://github.com/vedantvpednekar10/verifai-ml)** | RAG verification system with experiment tracking & explainability | Python, MLflow, SHAP |
 | **[langgraph-multi-agent-chatbot](https://github.com/vedantvpednekar10/Lanchain-Chatbot)** | Modular multi-agent architecture decoupling orchestration from tools, cutting integration time by 40% | Python, LangGraph, LangChain, OpenAI, Anthropic |
